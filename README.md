@@ -1,5 +1,4 @@
 # Blog Generating AI
-## GitHub README Content for Blog Post Writing AI
 
 ### Project Overview
 The Blog Post Writing AI is a Python-based application that utilizes the Gemini-1.5-flash large language model, along with the Google Generative AI and Streamlit libraries, to generate high-quality blog content for users. This project aims to provide a convenient and efficient way for users to create engaging blog posts with minimal effort.
